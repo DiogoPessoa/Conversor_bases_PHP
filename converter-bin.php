@@ -12,7 +12,7 @@ function converterBinParaOct($numero){
 		}
 	}
 }
-?>
+?>/>
 
 <html>
 <head>
